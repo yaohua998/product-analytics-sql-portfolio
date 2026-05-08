@@ -1,2 +1,14 @@
 ## Dataset
 Download here: https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset?resource=download
+
+## Tables
+
+### online_retail
+- InvoiceNo
+- StockCode
+- Description
+- Quantity
+- InvoiceDate
+- UnitPrice
+- CustomerID
+- Country
